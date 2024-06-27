@@ -1,1 +1,3 @@
 marnosc nad marnosciami, wszystko marnosc
+
+zmiana dla nowego trybu commitow
